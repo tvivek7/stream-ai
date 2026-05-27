@@ -1,11 +1,13 @@
-<<<<<<< HEAD
 # stream-ai
-A streaming website built with React + Vite.
-=======
+
+# A streaming website built with React + Vite.
+
 # Stream_AI
 
 - Create Vite App
 - Configure Tailwind
+- Header
+- Login Form
 
 # Features
 
@@ -22,4 +24,3 @@ A streaming website built with React + Vite.
 - Netflix GPT
   - Search Bar
   - Movie Suggestions
->>>>>>> 8aba27c (CRA and tailwind setup)
