@@ -7,7 +7,11 @@
 - Create Vite App
 - Configure Tailwind
 - Header
+- app routing
 - Login Form
+- Sign up form
+- form validation
+- useRef hook
 
 # Features
 
